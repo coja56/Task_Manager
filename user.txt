@@ -1,0 +1,4 @@
+admin, adm1n
+collins, jahwi
+Peter, apple
+Paul, solomons
